@@ -1,4 +1,4 @@
-module github.com/luwa07832/feature-flag-service
+module github.com/w3gqb6w2ky/qnt-recon-diff
 
 go 1.26.0
 
